@@ -9,6 +9,8 @@ Matching & Voting: I performed topological matching based on the relative spatia
 
 Visualization: Finally, I generated final_solution.mp4, where matched players are labeled with consistent colors to verify the solution.
 
+THE CODE CELLS HAVE A BRIEF DESCRIPTION OF WHATS HAPPENING IN EACH CELL, GIVING A GOOD UNDERSTANDING OF THE CODE.
+
 
 
 https://github.com/user-attachments/assets/9378591e-153b-43ad-9e25-3692ceb2062b
