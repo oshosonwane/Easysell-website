@@ -27,6 +27,7 @@ To run this notebook, you need a Python environment with the following libraries
 * `matplotlib`
 * `numpy`
 
+**just make sure you have a folder objecttracking with given files in it for now it will be updated in few days
 /content/drive/MyDrive/objecttracking/
 ├── best.pt
 ├── tacticam.mp4
