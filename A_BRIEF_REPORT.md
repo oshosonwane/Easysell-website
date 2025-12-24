@@ -18,7 +18,7 @@ perfect homography, so yaa it didn't work tbh. I am still working on it, so yeah
 
 The challenge was the close-up shots. This is also like my incomplete part i was thinking like, take the frame just before there is a jump in the broadcast 
 video and for just one frame do a feature or any kind of matching of player in close up shot to shot in tractcam vesio idk why it's not working at all, like there 
-are many issues coming up, like I improved the synch  to get bettert result i notices in close-up shots that it was tracking the shoes, so i expanded the box size so that matching will be better(it did it only fot he broadcast vedio only for expanded frames) got better result, still I think there is some issue in topography ids and how i am saving it in file i will look into it i think this logic of frame matching sotn have theriotical flaw atleast on paper, but let see 
+are many issues coming up, like I improved the synch  to get bettert result i notices in close-up shots that it was tracking the shoes, so i expanded the box size so that matching will be better(it did it only fot he broadcast vedio only for expanded frames) got better result, still I think there is some issue in topography ids and how i am saving it in file i will look into it i think this logic of frame matching sotn have theriotical flaw atleast on paper, but let see alo on player isnt matching id 15 and 20
 
 PS I HAVE EVEN SAVED THE CODE I HAVE TRIED FOR THE INCOMPLETE PART EVEN THOUGH THEY AREN'T GIVING RESULTS, BUT THEY MIGHT BE HELPFUL 
 
